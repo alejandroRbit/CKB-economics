@@ -6,7 +6,7 @@
         <td><b>Year (estimate)</b></td>
         <td><b>Reward era</b></td>
         <td><b>CKBytes/year</b></td>
-        <td><b>Total CKBytes issued</b></td>
+        <td><b>CKBytes issued</b></td>
         <td><b>Percentage issued (%)</b></td>
         <td><b>Inflation rate (%)</b></td>
     </tr>
