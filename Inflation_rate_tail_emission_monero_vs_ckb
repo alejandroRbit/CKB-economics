@@ -7,7 +7,7 @@
         <td><b>Inflation rate CKB secondary emission (%)</b></td>
         <td><b>Inflation rate Monero Tail Emission (%)</b></td>
     </tr>
-    <tr>
+    <tr align="right">
         <td>0</td>
         <td>4.0000000000</td>
         <td>0.8702183984</td>
